@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=
+comment1.target=Jugador()
+comment2.params=x\ y\ xS\ yS
+comment2.target=void\ aniadirFicha(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=boolean\ estaSinFichas()
+comment4.params=x\ y
+comment4.target=void\ eliminarFicha(int,\ int)
+numComments=5

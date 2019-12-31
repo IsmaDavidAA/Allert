@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=WinWar
+comment1.params=
+comment1.target=WinWar()
+comment2.params=
+comment2.target=void\ crearBotones()
+comment3.params=
+comment3.target=void\ cajaDeTexto()
+comment4.params=
+comment4.target=void\ eventoOyenteAccion()
+comment5.params=ae
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ gano()
+numComments=7
